@@ -107,4 +107,11 @@ IDOR เกิดจากการอ้างอิงอ็อบเจ็ก
 
 7.  การทำความเข้าใจและการฝึกอบรม: ฝึกอบรมผู้ใช้งานเพื่อเพิ่มความตระหนักในเรื่องการรักษาความปลอดภัยและการป้องกันการโจมตี Spoofing และการใช้งานที่ปลอดภัยของระบบ
 
-Vide การทำ Broken Access Control : https://www.youtube.com/watch?v=qjQ9aW9BhVI
+Vide การทำ Hijacking a Session: https://www.youtube.com/watch?v=YO8rsCMVUyY&t=36s
+
+Vide การทำ Insecure Direct Object Refrence : https://www.youtube.com/watch?v=qjQ9aW9BhVI&t=1s
+
+Vide การทำ  Missing Function Level Access Control : https://www.youtube.com/watch?v=C-MTbhfXbgg
+
+Vide การทำ  Spoofing an Authentication Cookie : https://www.youtube.com/watch?v=-n4OmhUN3vA
+
